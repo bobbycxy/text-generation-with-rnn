@@ -1,6 +1,8 @@
 # text-generation-with-rnn
 
-With the rise of generative AI, natural language generative systems became a hot interest for me. I decided to feed my curiosity by enrolling in DeepLearning.AI’s Natural Language Processing with Sequence Models which covered how the use of recurrent neural networks to generates the next-word on text data in one of the modules. In the spirit to put into practice what I have learnt, I decided to build my own text generator using Tensorflow and Keras.
+With the rise of generative AI, natural language generative systems became a hot interest for me. I decided to feed my curiosity by enrolling in DeepLearning.AI’s Natural Language Processing with Sequence Models which covered how the use of recurrent neural networks to generate the next-word on text data in one of the modules. In the spirit to put into practice what I have learnt, I decided to build my own text generator using Tensorflow and Keras.
+
+In addition, I wrote a detailed guide [here](https://medium.com/@bobbycxy/guide-to-rnns-grus-and-lstms-with-diagrams-and-equations-19065aa61cac) on how sequence models like Recurrent Neural Networks, Gated Recurrent Units (GRUs) and Long Short Term Memory (LSTM) work, using diagrams and mathematical equations. 
 
 ## Text Generation with Gated Recurrent Units (GRUs)
 
