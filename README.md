@@ -15,6 +15,8 @@ This is a text generation project that uses stateful GRUs to train a character-l
 
 To make it more interesting, I decided to train the language model to generate texts from the bible! Although the generated texts are not reflective of the themes of the bible, and there was poor grammar choices, I was impressed by the frequency of correctly spelt words.
 
+(Update - I'll be writing a medium article to share how I had built a Text Generator with GRU)
+
 ### Dataset
 
 The dataset comprises of bible verses from the 66 books of the bible. You can use this [link](https://raw.githubusercontent.com/mxw/grmr/master/src/finaltests/bible.txt) to find the dataset used for this project.
